@@ -1,0 +1,19 @@
+{
+  "name": "socket-io-examples",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bdwidhalm/socket-io-examples.git"
+  },
+  "author": "Brian Widhalm",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bdwidhalm/socket-io-examples/issues"
+  },
+  "homepage": "https://github.com/bdwidhalm/socket-io-examples#readme"
+}
